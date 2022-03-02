@@ -1,2 +1,2 @@
-print("Dzień dobry")
+print("Dzień dobry 1")
 print("XD")
